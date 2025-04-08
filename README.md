@@ -1,2 +1,1 @@
-# VLSI
-All files related to the "CEN415: Introduction to VLSI Design" project.
+This project is a work in progress. Any addtions will be reflected here.
