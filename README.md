@@ -1,1 +1,1 @@
-This project is a work in progress. Any addtions will be reflected here.
+This project is a work in progress. Any changes will be reflected here.
